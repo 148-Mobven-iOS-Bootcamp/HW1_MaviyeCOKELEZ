@@ -12,11 +12,23 @@ class ViewController: UIViewController {
     var a = 5
     var b = 7
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        print(sum(number1: a, number2: b))
+        
+        
+        print(minus(number1: a, number2: b))
     }
-
+    
+    func sum(number1: Int, number2: Int) -> Int {
+        return number1 + number2
+    }
+    func minus(number1: Int, number2: Int) -> Int {
+        return number1 - number2
+    }
 
 }
 
