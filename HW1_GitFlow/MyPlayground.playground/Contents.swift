@@ -2,8 +2,7 @@ import UIKit
 
 var str = "Hello, playground"
 
-//Fibonacci
-
+//Fibonacci Array
 
 var a = 1
 var result = 0
