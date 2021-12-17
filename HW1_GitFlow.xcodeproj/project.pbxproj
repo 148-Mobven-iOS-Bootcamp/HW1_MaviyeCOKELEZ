@@ -24,7 +24,7 @@
 		5C63DD3E276A2C950041F0A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C63DD41276A2C950041F0A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5C63DD43276A2C950041F0A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5C63DD50276A4DC10041F0A6 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5C63DD50276A4DC10041F0A6 /* Fibonacci.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Fibonacci.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +64,7 @@
 				5C63DD3E276A2C950041F0A6 /* Assets.xcassets */,
 				5C63DD40276A2C950041F0A6 /* LaunchScreen.storyboard */,
 				5C63DD43276A2C950041F0A6 /* Info.plist */,
-				5C63DD50276A4DC10041F0A6 /* MyPlayground.playground */,
+				5C63DD50276A4DC10041F0A6 /* Fibonacci.playground */,
 			);
 			path = HW1_GitFlow;
 			sourceTree = "<group>";
